@@ -1,9 +1,9 @@
-🚗🔋 Electric Vehicle Data Analysis Project
-- Project Overview -
-- 
+Electric Vehicle Data Analysis Project
+Project Overview 
+
 This project analyzes Electric Vehicle (EV) data using Python libraries like Pandas, Seaborn, Matplotlib, and Scipy. The goal is to uncover insights, detect unusual data points (outliers), conduct hypothesis testing, and make actionable recommendations for EV buyers and manufacturers.
 
-📂 Files Included-
+Files Included-
 
 File Name	Description
 
@@ -15,7 +15,7 @@ FEV-data-Excel.xlsx	Dataset containing EV data
 
 Python Final Project PDF.docx.pdf	Problem statement and project guidelines
 
-🧰 Libraries Used
+Libraries Used
 
 pandas
 
@@ -67,33 +67,33 @@ Two-sample t-test (ttest_ind from scipy.stats).
 
 Provided insights and recommendations based on test results.
 
-📊 Insights from Analysis
+Insights from Analysis
 
-🔋 Bigger Battery = Longer Range (Strong Positive Correlation)
+ Bigger Battery = Longer Range (Strong Positive Correlation)
 
-⚠️ However, some EVs with large batteries had lower than expected range — indicating inefficiency, higher weight, or poor aerodynamics.
+ However, some EVs with large batteries had lower than expected range — indicating inefficiency, higher weight, or poor aerodynamics.
 
 
-📊 Tesla vs Audi - Engine Power
+ Tesla vs Audi - Engine Power
 
 No statistically significant difference between their average engine power.
 
 Customers should focus more on range, charging speed, and interior quality rather than power alone.
 
-⚡ Outliers in Energy Consumption
+ Outliers in Energy Consumption
 
 
 Some EVs consumed much more energy than average — these are potential red flags for buyers.
 
 💡 Recommendations
 
-📣 For Manufacturers
+For Manufacturers
 
 Focus marketing on range, charging speed, and efficiency rather than just power.
 
 Work on improving battery efficiency and vehicle aerodynamics.
 
-📣 For Customers
+For Customers
 
 Long-distance drivers should focus on high battery capacity + efficient design.
 
