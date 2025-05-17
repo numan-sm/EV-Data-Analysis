@@ -87,13 +87,13 @@ Some EVs consumed much more energy than average — these are potential red flag
 
 💡 Recommendations
 
-For Manufacturers
+**For Manufacturers**
 
 Focus marketing on range, charging speed, and efficiency rather than just power.
 
 Work on improving battery efficiency and vehicle aerodynamics.
 
-For Customers
+**For Customers**
 
 Long-distance drivers should focus on high battery capacity + efficient design.
 
