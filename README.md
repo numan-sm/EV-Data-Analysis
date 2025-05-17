@@ -1,5 +1,5 @@
 🚗🔋 Electric Vehicle Data Analysis Project
-📊 Project Overview
+- Project Overview -
 This project analyzes Electric Vehicle (EV) data using Python libraries like Pandas, Seaborn, Matplotlib, and Scipy. The goal is to uncover insights, detect unusual data points (outliers), conduct hypothesis testing, and make actionable recommendations for EV buyers and manufacturers.
 
 📂 Files Included
